@@ -1,0 +1,3 @@
+To post to the ingredients list we ran this command in the terminal 3 times, changing the ingredient each time.
+
+curl -d "ingredient= 1/2 teaspoon freshly ground black pepper" http://localhost:4567/ingredients
